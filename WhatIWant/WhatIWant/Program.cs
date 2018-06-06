@@ -7,6 +7,7 @@ namespace WhatIWant
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("i want your mother.");
         }
     }
 }
